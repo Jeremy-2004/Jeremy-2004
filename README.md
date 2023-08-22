@@ -1,8 +1,8 @@
-- 👋 Salut, je suis @Jeremy-2004
-- 👀 Je m'intéresse à la Tech ainsi qu'au nouveauté lier à la Tech dans sa globalité
-- 🌱 J'apprends actuellement le metier de Developpeur Web
-- 💞️ Je cherche à collaborer sur des projets passionnant avec de petites ou grandes entreprises
-- 📫 Vous pouvez me contacter via Twitter, Discord et mon Portfolio, les liens sont visible sur mon profil
+- 👋 Salut, je suis @Jeremy-2004.
+- 👀 Ma passion est la tech, et je suis toujours à l'affût des dernières tendances dans ce domaine.
+- 🌱 J'apprends actuellement le métier de Développeur Web.
+- 💞️ Je cherche à collaborer sur des projets passionnants avec des petites ou grandes entreprises.
+- 📫 Vous pouvez me contacter via Twitter, Discord et mon Portfolio. Les liens sont visibles sur mon profil.
 <!---
 Jeremy-2004/Jeremy-2004 est un dépôt ✨ spécial ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
 Vous pouvez cliquer sur le lien Aperçu pour voir vos modifications.
