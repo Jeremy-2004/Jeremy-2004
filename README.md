@@ -5,8 +5,8 @@
 - 📫 Vous pouvez me contacter via Twitter, Discord et mon Portfolio. Les liens sont visibles sur mon profil.
 ```
    \____________________/
-    __/_|___________|_\__
-    /⭕️⭕️________⭕️⭕️\
+    __/_|__________|_\__
+    /⭕️⭕️_________⭕️⭕️\
     |__/___SKYZ3N___\__|
     \oo_|_|______|_|_oo/
 
