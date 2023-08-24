@@ -28,11 +28,11 @@ Nissan Skyline R34 ASCII art														profondément touché.
      |  `-----------------'  |,"  / |     |((((      |  ,"						      |	  /			dans des centaines de photos pour trouver celle qui capturera parfaitement l'essence d'un moment. D'autres fois, je
      +-----------------------+   /  |     |          |,"						      |	/			suis devant mon écran d'ordinateur, jouant avec des séquences vidéo, ajustant la vitesse, le ton et la couleur pour
         /_)______________(_/   /    |     +----------+							      ,				créer l'ambiance parfaite.
-   ___________________________/___   `,
-  /  oooooooooooooooo  .o.  oooo /,    \,"-----------,										-	Ce qui m'enthousiasme le plus dans ce domaine, c'est l'évolution constante des techniques et des outils. La
- / ==ooooooooooooooo==.o.  ooo= //    ,`\--{)B     ,"											technologie a énormément progressé, offrant des possibilités infinies pour améliorer et innover. Cependant, au cœur
-/_==__==========__==_ooo__ooo=_/'    /___________,"											de tout cela, reste l'essence de l'art: raconter une histoire, évoquer une émotion.
-
+   ___________________________/___   `,	  ,"------------,"
+  /  oooooooooooooooo  .o.  oooo /,    \,"  ___	       ,"									-	Ce qui m'enthousiasme le plus dans ce domaine, c'est l'évolution constante des techniques et des outils. La
+ / ==ooooooooooooooo==.o.  ooo= //    ," \ | ' |     ,"											technologie a énormément progressé, offrant des possibilités infinies pour améliorer et innover. Cependant, au cœur
+/_==__==========__==_ooo__ooo=_/'   ,"     |___|   ,"											de tout cela, reste l'essence de l'art: raconter une histoire, évoquer une émotion.
+				  ,"_____________,"
 Ordinateur ASCII art														-	Ma passion pour le montage photo et vidéo ne se limite pas à la technique ou à l'art en lui-même. C'est aussi une
 																	quête de vérité, une manière de montrer la beauté du monde, de capturer l'essence de la vie elle-même. Chaque
 																	projet est une opportunité de partager une vision, une émotion, une histoire, et je suis profondément honoré de
