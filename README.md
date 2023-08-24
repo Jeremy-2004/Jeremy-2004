@@ -1,5 +1,5 @@
 - 👋 Salut, je suis @Jeremy-2004.
-- 👀 Ma passion est le monde de l'automobile, le montage photo et vidéo, la tech dans sa généralité,
+- 👀 Ma passion est le monde de l'automobile, le montage photo et vidéo et la tech dans sa généralité,
 	je suis toujours à l'affût des dernières tendances dans ces domaines.
 - 🌱 J'apprends actuellement le métier de Développeur Web.
 - 💞️ Je cherche à collaborer sur des projets passionnants avec des petites ou grandes entreprises.
