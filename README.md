@@ -4,7 +4,7 @@
 - 💞️ Je cherche à collaborer sur des projets passionnants avec des petites ou grandes entreprises.
 - 📫 Vous pouvez me contacter via Twitter, Discord et mon Portfolio. Les liens sont visibles sur mon profil.
 ```
-    \___________________/
+   \____________________/
     __/_|__________|_\__
     /⭕️⭕️________⭕️⭕️\
     |__/___SKYZ3N___\__|
