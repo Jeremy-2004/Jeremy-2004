@@ -23,7 +23,7 @@ Nissan Skyline R34 ASCII art														profondément touché.
      |  |                 |  |  |         | -==----' |      |		|						\		évoquer des sentiments chez le spectateur. Qu'il s'agisse d'un montage photo qui suscite la nostalgie d'un moment
      |  |  I LOVE DEV!    |  |  |         |          |     o|		|						 >		passé ou d'une vidéo qui fait battre le cœur plus vite avec son rythme et sa dynamique, l'objectif est toujours
      |  |  HTML, CSS, JS  |  |  |/\-------|`---=     |   o  |		|						/		d'établir une connexion émotionnelle.
-     |  | <!DOCTYPE html>       |  |      |   ,/|====| o    |           --------------------------------------	      /
+     |  | <!DOCTYPE html> |  |  |  |      |   ,/|====| o    |           --------------------------------------	      /
      |  |                 |  |  |  /\     |(((( [OI] |    ,"						      |	    /		-	Chaque projet de montage est une nouvelle aventure. Parfois, je me retrouve plongé dans les archives, à fouiller
      |  `-----------------'  |,"  / |     |((((      |  ,"						      |	  /			dans des centaines de photos pour trouver celle qui capturera parfaitement l'essence d'un moment. D'autres fois, je
      +-----------------------+   /  |     |          |,"						      |	/			suis devant mon écran d'ordinateur, jouant avec des séquences vidéo, ajustant la vitesse, le ton et la couleur pour
