@@ -4,11 +4,11 @@
 - 💞️ Je cherche à collaborer sur des projets passionnants avec des petites ou grandes entreprises.
 - 📫 Vous pouvez me contacter via Twitter, Discord et mon Portfolio. Les liens sont visibles sur mon profil.
 ```
-   \____________________/
-    __/_|__________|_\__
-    /⭕️⭕️_________⭕️⭕️\
-    |__/___SKYZ3N___\__|
-    \oo_|_|______|_|_oo/
+   \________________________/
+    __/_|______________|_\__
+    /⭕️⭕️____________⭕️⭕️\
+    |__/_____SKYZ3N_____\__|
+     \oo_|_|________|_|_oo/
 
 Nissan Skyline R34 ASCII art
 
@@ -27,7 +27,7 @@ Nissan Skyline R34 ASCII art
      +-----------------------+  ;;  | |         |,"
         /_)______________(_/  //'   | +---------+
    ___________________________/___  `,
-  /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+  /  oooooooooooooooo  .o.  oooo /,   \,"-----------,
  / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
 /_==__==========__==_ooo__ooo=_/'   /___________,"
 
