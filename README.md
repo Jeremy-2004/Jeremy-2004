@@ -4,11 +4,13 @@
 - 💞️ Je cherche à collaborer sur des projets passionnants avec des petites ou grandes entreprises.
 - 📫 Vous pouvez me contacter via Twitter, Discord et mon Portfolio. Les liens sont visibles sur mon profil.
 ```
- \_________________/
- __/_|________|_\__
- /⭕️⭕️______⭕️⭕️\
- |__/__SKYZ3N__\__|
- \oo_|_|____|_|_oo/
+    \___________________/
+    __/_|__________|_\__
+    /⭕️⭕️________⭕️⭕️\
+    |__/___SKYZ3N___\__|
+    \oo_|_|______|_|_oo/
+
+Nissan Skyline R34 ASCII art
 ```
 <!---
 Jeremy-2004/Jeremy-2004 est un dépôt ✨ spécial ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
